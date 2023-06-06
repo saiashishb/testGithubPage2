@@ -39,4 +39,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: jmeter_report
-          path: ./reports/test_results/report_dashboard2.html
+          path: ./reports/test_results/report_dashboard.html
